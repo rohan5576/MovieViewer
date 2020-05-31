@@ -8,5 +8,5 @@ Kotlin concept used- #Data classes #Null safety #Late-Initialized Properties and
 
 Android JetPack Components used- #Data Binding #ViewModel #NavigationController #LiveData
 
-![alt text](https://github.com/rohan5576/MovieViewer/blob/master/app/src/main/res/drawable/device-2020-05-31-122446_Easy-Resize.com.jpg)
-![alt text](https://github.com/rohan5576/MovieViewer/blob/master/app/src/main/res/drawable/device-2020-05-31-122517_Easy-Resize.com.jpg)
+![alt text](https://github.com/rohan5576/MovieViewer/blob/master/app/src/main/res/drawable/home_page.jpg)
+![alt text](https://github.com/rohan5576/MovieViewer/blob/master/app/src/main/res/drawable/detail_page.jpg)
