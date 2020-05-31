@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieViewer</string>
+
+    <!-- This key is used to connect to TMDB -->
+    <string name="api_key">6f0d2e184c822370f8786da6907bd6ff</string>
+    <string name="movie_nfinder">Movie \nViewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
